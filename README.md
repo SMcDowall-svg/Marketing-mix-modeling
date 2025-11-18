@@ -1,4 +1,4 @@
-# Marketing-mix-modeling\
+# Marketing-mix-modeling
 
 This repository is a simulated case study demonstrating marketing mixed modeling (MMM). 
 
